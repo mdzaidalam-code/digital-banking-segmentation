@@ -4,7 +4,7 @@ A premium, pixel-perfect, and highly responsive web page dashboard component bui
 
 ## 🚀 Live Demo
 Check out the live deployment here:  
-👉 **[Live Demo Link]([https://mdzaidalam-code.github.io/react-job-card/](https://mdzaidalam-code.github.io/digital-banking-segmentation/))
+👉 **[Live Demo Link]([https://mdzaidalam-code.github.io/react-job-card/](https://mdzaidalam-code.github.io/digital-banking-segmentation/))**
 
 ---
 
