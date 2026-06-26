@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@theme {
+  --breakpoint-pos1: 75rem;
+  --breakpoint-pos2: 85rem;
+}
